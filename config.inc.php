@@ -8,6 +8,6 @@ $config = array(
 
 //users
 $accounts = array(
-	'bernd' => array('localIP' => '201', 'secret' => 'asd8asd87bfgdfg87h', 'password' => 'geheim'),
-	'bernd-mobile' => array('localIP' => '202', 'secret' => 'sdg67g7gfjashfisdf', 'password' => 'geheim'),
+	'mschluetz' => array('localIP' => '241', 'secret' => 'asdwefws8ewdfgd', 'password' => 'vergessn'),
+	'scm' => array('localIP' => '242', 'secret' => '28d54jhiufiujfg', 'password' => 'vergessn'),
 );
